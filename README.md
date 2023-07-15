@@ -1,2 +1,2 @@
-# intensivegames.github.io
-Intensive Games Official Website
+# Intensive Games Official Website
+https://intensivegames.github.io/
